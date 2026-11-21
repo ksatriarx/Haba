@@ -1,1 +1,11 @@
-
+window.HABA_NEWS = [
+ {category:"Nasional",title:"Kebijakan publik dan dampaknya bagi kehidupan masyarakat",excerpt:"Membaca arah kebijakan melalui data, konteks, dan suara warga.",time:"12 menit lalu",image:"https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=800&q=80"},
+ {category:"Daerah",title:"Dari pesisir, warga merawat harapan dan ruang hidup bersama",excerpt:"Kisah komunitas lokal yang bergerak menjaga lingkungan sekitarnya.",time:"28 menit lalu",image:"https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=800&q=80"},
+ {category:"Ekonomi",title:"Usaha lokal mencari jalan tumbuh di tengah pasar yang berubah",excerpt:"Pelaku usaha menyesuaikan strategi untuk menjangkau pembeli baru.",time:"41 menit lalu",image:"https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&w=800&q=80"},
+ {category:"Teknologi",title:"Literasi digital menjadi bekal penting masyarakat masa kini",excerpt:"Akses teknologi perlu berjalan bersama pemahaman dan keamanan.",time:"1 jam lalu",image:"https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80"},
+ {category:"Politik",title:"Ruang dialog publik dibutuhkan dalam merumuskan keputusan",excerpt:"Berbagai kelompok masyarakat menyampaikan pandangan dan masukan.",time:"1 jam lalu",image:"https://images.unsplash.com/photo-1520869562399-e772f042f422?auto=format&fit=crop&w=800&q=80"},
+ {category:"Nasional",title:"Pendidikan dan pemerataan akses kembali menjadi perhatian",excerpt:"Tantangan layanan pendidikan berbeda di setiap wilayah.",time:"2 jam lalu",image:"https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=800&q=80"},
+ {category:"Daerah",title:"Pasar tradisional tetap menjadi denyut ekonomi masyarakat",excerpt:"Pedagang dan pembeli menjaga aktivitas ekonomi lokal.",time:"2 jam lalu",image:"https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&w=800&q=80"},
+ {category:"Ekonomi",title:"Kreativitas generasi muda membuka peluang usaha baru",excerpt:"Inovasi sederhana menghadirkan nilai tambah bagi produk lokal.",time:"3 jam lalu",image:"https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=800&q=80"},
+ {category:"Teknologi",title:"Inovasi layanan publik diarahkan agar lebih mudah diakses",excerpt:"Pengembangan layanan digital perlu memperhatikan kebutuhan warga.",time:"4 jam lalu",image:"https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80"}
+];
